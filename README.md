@@ -21,6 +21,7 @@ conda create -c conda-forge -n my-pypy-env pypy python=3.8
 source my_virtual_env/bin/activate   #"my_virtual_env" is your env name
 
 ## install libs
-
+pip3 install torch torchvision torchaudio
+https://pytorch.org/get-started/locally/
 
 
